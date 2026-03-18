@@ -1,8 +1,8 @@
 # Hi, I'm Ajay Sharma 👋
 
-AI Team Lead at Turing. 2.8 years across AI model evaluation 
-and product operations. Currently making the move into Product 
-Management — with a background most PM candidates don't have.
+AI Team Lead at Turing. 2.8 years across AI model 
+evaluation and product operations. Targeting PM roles 
+at AI-first companies.
 
 ---
 
@@ -28,9 +28,8 @@ Now I'm applying both to product work.
 ## Featured Projects
 
 ### 🔵 Signal — Returns Discovery Tool
-An AI-native tool that replaces 7–8 hours of manual data 
-discovery for Amazon Returns PMs with ranked, evidence-backed 
-problem synthesis on demand.
+An AI-native returns discovery tool for Amazon PMs. Three-tier LLM architecture 
+with built-in output validation and live faithfulness scoring. Full PRD + working prototype.
 
 - Three-tier LLM architecture: RAG query nodes → Master LLM 
   Node → Judge Node for hallucination validation
@@ -82,7 +81,7 @@ retention leakage in Swiggy Instamart.
 Optimization · Roadmapping · GTM · Retention Modeling
 
 **AI & Evaluation:** RLHF · SFT Annotation · LLM Ops · 
-Prompt Evaluation · Hallucination Detection · RAG Architecture
+Prompt Evaluation · AI Evaluation Frameworks · RAG Architecture
 
 **Tools:** n8n · React · Supabase · Figma · Mixpanel · 
 SQL · Notion · Postman · Google AI Studio
