@@ -1,48 +1,107 @@
-# Hi, I'm Ajay 👋
+# Hi, I'm Ajay Sharma 👋
 
-I build AI products that account for how AI actually fails.
-
-Most PM candidates learn about LLMs from the outside. I spent 1.8 years inside RLHF and SFT feedback loops — evaluating 5,000+ model outputs, identifying hallucination patterns, and feeding structured error analysis back into training pipelines for Fortune 500 AI clients. That's not a background story. It's why every product I build has failure mitigation designed in from the first line of architecture.
-
-Now I'm building those products.
+AI Team Lead at Turing. 2.8 years across AI model evaluation 
+and product operations. Currently making the move into Product 
+Management — with a background most PM candidates don't have.
 
 ---
 
-## What I'm working on
+## What I Do
 
-- **[Signal](https://github.com/reagleai/signal)** — An AI-native returns discovery tool for Amazon PMs. Replaces 7–8 hrs/week of manual data work with a three-tier LLM pipeline (RAG → Master LLM → Judge Node) and a live faithfulness scoring layer. Built with n8n, React, and DeepSeek R1. Full PRD, working prototype, production-grade architecture.
+I led a team of 5–6 analysts running RLHF and SFT workflows 
+for Fortune 500 AI clients at Turing. That meant evaluating 
+5,000+ LLM interaction pairs — specifically for the logic gaps 
+and hallucination patterns that degrade model quality. I was 
+the feedback channel between annotation teams and delivery 
+leads. That work taught me how AI systems actually behave 
+under production conditions.
 
-- **[LinkedIn Engagement Agent](https://github.com/reagleai/echo)** — A human-in-the-loop AI agent that automates low-signal discovery work while preserving high-value manual interactions. Multi-model pipeline with deliberate cost-optimization routing: Tavily for extraction, DeepSeek for processing, Claude 3.5 for creative drafting. Live React + Supabase dashboard. 90% reduction in daily workflow time.
+Before Turing, I was Associate Product Operations Manager at 
+Preplaced — where I launched a tiered mentorship product that 
+drove a 21% uplift in trial-to-paid conversion and reduced 
+unattendance rates by 10% through accountability protocols.
 
-- **[Smart Cart — Swiggy Instamart](https://github.com/reagleai/smart-cart-recommendations)** — A retention feature concept for "Planner" users abandoning Instamart for offline vendors on forgotten items. Gemini API-powered contextual suggestion engine targeting decision latency under 5 seconds. Built on primary research (15-person survey, 64% leakage validated). A/B test framework designed for 125K users.
-
----
-
-## What I work on
-
-- **AI product architecture** — RAG pipelines, multi-agent orchestration, hallucination mitigation frameworks, LLM evaluation design (offline golden datasets + online faithfulness scoring)
-- **Model evaluation** — RLHF/SFT quality assurance, logic gap identification, error pattern synthesis for model improvement
-- **Product ops & growth** — feature rollout strategy, trial-to-paid conversion, user research, PRD writing
-- **Prototyping** — n8n, React, Supabase, TypeScript, multi-model pipelines
-
----
-
-## About Me
-
-- **Team Lead @ Turing** — Leading a team of 5–6 analysts executing RLHF and SFT workflows for Fortune 500 AI clients. Responsible for quality assurance across 5,000+ LLM interaction pairs and synthesizing error patterns into model improvement guidance.
-
-- **Associate Product Ops Manager @ Preplaced** — Launched tiered mentorship offerings that lifted adoption from 21% → 31%. Drove a 21% uplift in trial-to-paid conversion through a structured feature rollout. Reduced unattendance rates by 10% through mentor accountability protocols.
-
-- **B.Tech, Electrical & Computer Engineering** — REVA University (2019–2023)
-
-- **PM Cohort, AI Specialization @ HelloPM** — (Nov 2025 – Present)
+Now I'm applying both to product work.
 
 ---
 
-## A specific thing I care about
+## Featured Projects
 
-Most AI products treat hallucination as a UX problem — add a disclaimer, soften the copy, hope the user doesn't notice. I think it's an infrastructure problem. Signal has a dedicated Judge Node, a Golden Dataset eval layer, and a live Faithfulness Score visible in the dashboard. Not because I wanted the portfolio to look technical. Because a PM who doesn't trust the tool won't use it — and a tool that isn't used has no north star metric to measure.
+### 🔵 Signal — Returns Discovery Tool
+An AI-native tool that replaces 7–8 hours of manual data 
+discovery for Amazon Returns PMs with ranked, evidence-backed 
+problem synthesis on demand.
+
+- Three-tier LLM architecture: RAG query nodes → Master LLM 
+  Node → Judge Node for hallucination validation
+- Business case quantified at $62M–$158M annually
+- Evaluated against a Golden Dataset of historical Amazon PRFAQs
+- Built on n8n with a React frontend
+- North Star: % of quarterly PRFAQs defined using 
+  tool-generated suggestions
+
+→ [View Repository](https://github.com/reagleai/signal)
 
 ---
 
-📍 Bangalore | 🔗 [linkedin.com/in/workwithajay](https://www.linkedin.com/in/workwithajay/) | Open to APM / PM / Product Analyst roles at AI-first companies
+### 🟢 Echo — LinkedIn Engagement Tool
+A Human-in-the-Loop agent that automates the discovery and 
+drafting layer of LinkedIn engagement while keeping the human 
+in control of what actually gets posted.
+
+- Tavily-powered search for relevant posts from the last 
+  24 hours
+- AI-generated comments delivered to a dated Google Sheet
+- Multi-model pipeline: Tavily → DeepSeek → Claude 3.5
+- Automated posting deliberately excluded — platform research 
+  confirmed LinkedIn detects and penalizes it
+- Live product with login, Google Drive integration, and 
+  Gmail summary after every run
+
+→ [View Repository](https://github.com/reagleai/echo)
+
+---
+
+### 🟡 Smart Cart — Swiggy Instamart Retention Feature
+A Gemini API-powered contextual suggestion engine targeting 
+retention leakage in Swiggy Instamart.
+
+- Primary research validated: 64% of Planner-type users 
+  shifted to offline vendors for forgotten items
+- Designed for decision latency under 5 seconds
+- A/B test framework built for 125,000 users targeting 
+  10% lift in repeat order frequency
+
+→ [View Repository](https://github.com/reagleai/smart-cart-recommendations)
+
+---
+
+## Skills
+
+**Product:** User Research · PRDs · A/B Testing · Funnel 
+Optimization · Roadmapping · GTM · Retention Modeling
+
+**AI & Evaluation:** RLHF · SFT Annotation · LLM Ops · 
+Prompt Evaluation · Hallucination Detection · RAG Architecture
+
+**Tools:** n8n · React · Supabase · Figma · Mixpanel · 
+SQL · Notion · Postman · Google AI Studio
+
+---
+
+## Currently
+
+- 🔭 AI Team Lead @ Turing
+- 📖 HelloPM AI Specialization Cohort
+- 🔍 Researching the AI Adoption Paradox — why 70%+ of 
+  companies have given employees AI access but less than 6% 
+  are generating real business outcomes
+- 💼 Open to PM and APM roles at AI-first companies
+
+---
+
+## Connect
+
+- 🌐 [Portfolio](https://ajay.protonaiagents.com/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/workwithajay/)
+- 📩 sharma.ajay.jobs@gmail.com
