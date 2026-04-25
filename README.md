@@ -1,6 +1,6 @@
 # Hi, I'm Ajay Sharma 👋
 
-AI Team Lead at Turing. 2.8 years across AI model 
+AI Team Lead at Turing. 2.9 years across AI model 
 evaluation and product operations. Targeting PM roles 
 at AI-first companies.
 
